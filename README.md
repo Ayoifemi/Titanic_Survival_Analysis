@@ -23,6 +23,7 @@ In real-life applications, this kind of analysis translates to:
 - Key features influencing survival: sex, passenger class, fare, and age  
 
 ## How to Run
-1. Clone the repository:  
-```bash
+1. Clone the repository: ```bash
 git clone https://github.com/Ayoifemi/Titanic_Survival_Analysis.git
+2. Install required libraries: `pip install pandas numpy seaborn matplotlib scikit-learn`
+3. Open `titanic_analysis.ipynb` in Jupyter or VS Code and run all cells
